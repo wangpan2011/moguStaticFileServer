@@ -1,0 +1,8 @@
+{
+  "name": "TestServer",
+  "private": true,
+  "version": "0.0.0",
+  "description": "A test server for app development",
+  "dependencies": {
+  }
+}
